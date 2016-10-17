@@ -7,6 +7,9 @@
 - [MultivariateAnomalies.jl](https://github.com/milanflach/MultivariateAnomalies.jl) - Julia package for Multivariate anomaly detection *Julia*
 - [RSCAPE](https://github.com/bgi-jena/RSCAPE) - R package for base respiration and Q10 estimation *R*
 - [statcomp](http://statcomp.r-forge.r-project.org) - R package for complexity estimators *R*
+- [DRR](https://github.com/gdkrmr/DRR) - R package for Dimensionality Reduction via Regression *R*
+- [coRanking](https://github.com/gdkrmr/coRanking) - R package for co-Ranking matrix *R*
+- [dimRed](https://github.com/gdkrmr/dimRed) - R package Framework for dimensionality Reduction *R*
 
 ## Eddy Covariance processing
 
