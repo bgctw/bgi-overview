@@ -12,4 +12,7 @@
 
 ## Eddy Covariance processing
 
+- [REddyProc](https://github.com/bgctw/REddyProc) - R package for processing 
+  (half)hourly data from Eddy-Covariance sensors
+
 
